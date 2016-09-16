@@ -1,0 +1,6 @@
+c:\users\andrey kutovyi\documents\visual studio 2015\Projects\testTask2_AndreyKutovyi\bin\Debug\testTask2_AndreyKutovyi.exe.config
+c:\users\andrey kutovyi\documents\visual studio 2015\Projects\testTask2_AndreyKutovyi\bin\Debug\testTask2_AndreyKutovyi.exe
+c:\users\andrey kutovyi\documents\visual studio 2015\Projects\testTask2_AndreyKutovyi\bin\Debug\testTask2_AndreyKutovyi.pdb
+c:\users\andrey kutovyi\documents\visual studio 2015\Projects\testTask2_AndreyKutovyi\obj\Debug\testTask2_AndreyKutovyi.csprojResolveAssemblyReference.cache
+c:\users\andrey kutovyi\documents\visual studio 2015\Projects\testTask2_AndreyKutovyi\obj\Debug\testTask2_AndreyKutovyi.exe
+c:\users\andrey kutovyi\documents\visual studio 2015\Projects\testTask2_AndreyKutovyi\obj\Debug\testTask2_AndreyKutovyi.pdb
